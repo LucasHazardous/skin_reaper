@@ -1,0 +1,4 @@
+geckodriver.log
+.vscode
+geckodriver.exe
+__pycache__
